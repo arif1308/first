@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color:aquamarine;
+
+}
+
+h2{
+    text-align: left;
+    color: blueviolet;
+
+}
+
+body{
+    background-color: darkgreen;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#message{
+    font-style: italic;
+}
+button{
+    width: 150px;
+    color: darkblue;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    
+}
